@@ -1,0 +1,4 @@
+tingval
+=======
+
+Mandatfordeling i nasjonalparlament.
